@@ -5,7 +5,8 @@
     "bootstrap": "~3.3.5",
     "leaflet": "^1.0.2",
     "leaflet-image": "^0.4.0",
-    "Leaflet.Storage": "https://github.com/umap-project/Leaflet.Storage.git#0.8.0-rc.13"
+    "Leaflet.Storage": "https://github.com/umap-project/Leaflet.Storage.git#0.8.0-rc.13",
+    "Leaflet.i18n": "https://github.com/yohanboniface/Leaflet.i18n.git"
   },
   "overrides": {
     "bootstrap": {
